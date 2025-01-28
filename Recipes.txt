@@ -5,4 +5,7 @@ paneer
 rajmaa
 pepparoni cheese
 
+dal
+roti
+
 Thanks
